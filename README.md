@@ -72,7 +72,7 @@ In this experiment:
                        GND
 ```
 
-<img width="1600" height="701" alt="image" src="https://github.com/user-attachments/assets/05451ed9-db60-4f77-a673-b8a40b52d8b7" />
+<img width="1917" height="932" alt="Screenshot 2026-09-05 161313" src="https://github.com/user-attachments/assets/e8c13729-1971-4dc8-b565-d331af34d8a7" />
 
 
 ## 6. ALGORITHM
